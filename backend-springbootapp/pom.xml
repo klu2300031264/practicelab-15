@@ -12,7 +12,6 @@
 	<artifactId>backend-springbootapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>backend-springbootapp</name>
-	<packaging>war</packaging>
 	<description>Spring Boot Backend Project</description>
 	<url/>
 	<licenses>
@@ -64,7 +63,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>jenkinsback1</finalName>
+	
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
